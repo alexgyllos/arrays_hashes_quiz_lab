@@ -18,6 +18,7 @@ p stops.count
 p stops.fetch(2)
 p stops[2]
 #9. Reverse the positions of the stops in the array
+p stops.reverse
 #10 Print out all the stops using a for loop
 
 p stops
